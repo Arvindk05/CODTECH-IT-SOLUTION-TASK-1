@@ -1,6 +1,7 @@
 # CODTECH-IT-SOLUTION-TASK-1
+         TASK ONE:EXPLORATORY DATA ANALYSIS (EDA)
+QUESTION 1 - Start with a dataset of your choice and perform EDA using libraries like pandas, numpy, and matplotlib or seaborn. Explore the data's
+             characteristics, distributions, correlations, and outliers. Visualize your findings with histograms, scatter plots, and heatmaps to gain insights into the data.
 
-TASK 2 
-QUESTION 1 -  CUSTOMER SEGMENTATION AND ANALYSIS  
-    Perform customer segmentation analysis on a retail dataset to identify distinct customer segments based on purchasing behavior.
-    Use clustering techniques like K-means or DBSCAN to group customers and analyze segment characteristics.
+
+
